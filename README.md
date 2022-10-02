@@ -1,0 +1,3 @@
+# Snake-game
+I know you all have played the Snake Game and definitely, you never wanted to lose. A snake game is an arcade maze game which has been developed by Gremlin Industries and published by Sega in October 1976. It is considered to be a skillful game and has popularized among people for generations. The snake in the Snake game is controlled using the four direction buttons relative to the direction it is headed in. The player’s objective in the game is to achieve maximum points as possible by collecting food or fruits. The player loses once the snake hits the wall or hits itself. This snake game is created in python. Python module(pygame)
+![snake](https://user-images.githubusercontent.com/69378341/193447513-26e12f93-4957-4da5-9229-090b345f7e0b.gif)
